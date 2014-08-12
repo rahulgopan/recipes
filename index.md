@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Recipes
+home: true
 ---
 
 Home Page

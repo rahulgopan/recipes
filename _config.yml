@@ -1,0 +1,15 @@
+# Site settings
+# title: Welcome to my GitHub Page
+# email: rahulgopan34@live.com
+# description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+# baseurl: ""
+# url: "http://yourdomain.com"
+# twitter_username: rahul_rt_g
+# github_username:  rahulgopan
+
+# Build settings
+name: Recipes
+markdown: redcarpet
+#permalink: pretty
+pygments: true
+baseurl: /recipes/index.html
